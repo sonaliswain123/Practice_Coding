@@ -18,3 +18,5 @@ Input: arr[] = {22, 14, 8, 17, 35, 3}
 Output:  Minimum element is: 3
               Maximum element is: 35
               <br>
+              
+2. Array Reverse
