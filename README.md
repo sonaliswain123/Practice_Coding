@@ -20,3 +20,5 @@ Output:  Minimum element is: 3
               <br>
               
 2. Array Reverse
+3. Maximum Subarray
+4. COntains Duplicate
